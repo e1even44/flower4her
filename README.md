@@ -1,2 +1,2 @@
 # flower4her
-a  pretty visualization of a blue flower with the helping hand of python turtle graphics
+a  pretty visualization of a flower made with python turtle graphics
